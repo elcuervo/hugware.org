@@ -15,7 +15,7 @@ layout: main
   <h2> HUGS </h2>
 
   <p>
-    The author spent time to make this software so please show some grattitude,
+    The author spent time to make this software so please show some gratitude,
     in any
     form. A hug, a tweet, a beer on a conference or just a plain old email. Your
     choice.
