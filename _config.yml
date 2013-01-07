@@ -1,0 +1,4 @@
+markdown: rdiscount
+lsi: true
+auto: true
+author: elCuervo - Bruno Aguirre
