@@ -22,4 +22,5 @@ layout: main
   </p>
 
   <p> Less hate, more hugs.  </p>
+  <pre>wget http://hugware.org/HUGS</pre>
 </div>
